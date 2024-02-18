@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+</head>
+<body>
+ 
+ 
+<a href="https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?prompt=select_account&response_type=code&redirect_uri=https%3A%2F%2Fauth.linktr.ee%2Flogin%2Fcallback&scope=email%20profile&state=E2tAnT1JXkf4dJVVCwCvHcb0XKiwuPG8&client_id=574756645719-obsb9ir4f259ve134lvurrt0gk1f0bqo.apps.googleusercontent.com&service=lso&o2v=1&theme=glif&flowName=GeneralOAuthFlow">login</a>
+
+</body>
+</html>
