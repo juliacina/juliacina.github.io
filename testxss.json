@@ -1,0 +1,9 @@
+{
+    "url": "https://juliacina.github.io/testxss.yaml",
+    "urls": [
+        {
+            "url": "https://juliacina.github.io/testxss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
